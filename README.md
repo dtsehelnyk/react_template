@@ -1,2 +1,2 @@
 # react_template
-Dase for React Apps
+Base for React Apps
