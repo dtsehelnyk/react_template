@@ -1,4 +1,4 @@
-# [Demo link](https://<name>.github.io/react_app).
+# [Demo link](https://<name>.github.io/react_app)
 
 ## Getting Started with Create React App
 
