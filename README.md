@@ -1,4 +1,6 @@
-# [Demo link](https://<name>.github.io/react_app)
+# [Demo link](https://<name>.github.io/<app_name>)
+
+Also you should change homepage property in package.json file.
 
 ## Available Scripts
 
